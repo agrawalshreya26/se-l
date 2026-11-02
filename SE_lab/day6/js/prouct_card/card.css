@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.main-card{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.card{
+    border: 1px solid red;
+    width: 200px;
+    text-align: center;
+}
+.card2{
+    border: 1px solid red;
+    width:200px ;
+    text-align: center;
+}

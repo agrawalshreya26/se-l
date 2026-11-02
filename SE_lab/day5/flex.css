@@ -1,0 +1,25 @@
+*{
+
+}
+.box{
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box:hover{
+    background-color: brown;
+    color: aliceblue;
+    font-size: 24px;
+    
+}
+.main-box{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
